@@ -1,3 +1,4 @@
+import pyarrow as pa
 import pandas as pd
 import numpy as np
 import pickle
@@ -19,29 +20,13 @@ import re
 #		print("""{} varchar(512) NOT NULL,""".format(key))
 #	else:
 #		
-#		print("""{} float(80,2 ) NOT NULL,""".format(key))
-with open('qs.census2002.txt') as f:
-	census_02_np_dataframe = np.genfromtxt(f, delimiter='\t', dtype=None, encoding='unicode')
+#		print("""{} float(80,2 ) NOT NULL,""".format(key)ed_tsv.py
 
-#print(census_02_np_dataframe)
-#print(census_02_dataframe.iloc[:0,:3].head())
-#print('\n')
-#print('\n')
-#print(census_02_dataframe.iloc[:3,:6].head())
-#print('\n')
-#print('\n')
-#print(census_02_dataframe.iloc[:6,:8].head())
-#print('\n')
-#print('\n')
-#print(census_02_dataframe.iloc[:8,:10].head())
-#print('\n')
-#print('\n')
-#print(census_02_dataframe.iloc[:12,:15].head())
-#print('\n')
-#print('\n')
-#print(census_02_dataframe.iloc[:15,:18].head())
-#print('\n')
-#print('\n')
-#print(census_02_dataframe.iloc[:18,:21].head())
-#print('\n')
-#print('\n')
+with open('truncated_ag_census_2002.txt', 'rb') as f:
+    census_02_np_dataframe = np.genfromtxt(f, delimiter='\t', dtype=None, encoding='utf-8')
+
+table = pa.Table.from_pandas(census_02_np_dataframe)
+
+#with open('TEST_census_02.pqt', 'wb') as f:
+#    census_02_np_dataframe.to_parquet(f)
+

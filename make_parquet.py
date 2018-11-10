@@ -47,6 +47,6 @@ if __name__ == '__main__':
 		StructField("VALUE", StringType(), True),
 		StructField("CV_%", IntegerType(), True)
 		])
-	rdd = sc.textFile('/home/ec2-user/ag_census_analysis/truncated_ag_census_2002.txt') 
+	rdd = sc.textFile('~/ag_census_analysis/truncated_ag_census_2002.txt') 
 	df = sqlContext.createDataFrame(rdd, schema)
-	df.write.parquet('/home/ec2-user/ag_census_analysis/truncated_ag_census_2002-parquet')
+	df.write.parquet('~/ag_census_analysis/truncated_ag_census_2002-parquet')
