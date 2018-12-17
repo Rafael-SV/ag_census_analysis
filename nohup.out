@@ -325,3 +325,95 @@ To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLeve
 [I 01:44:02.421 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
 [I 01:46:02.868 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
 [I 01:48:12.045 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 02:23:03.769 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 02:25:05.454 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 02:27:14.826 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 02:29:25.967 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 02:29:36.924 NotebookApp] Starting buffering for 795cfc6f-a250-4431-aaf6-a22b11474195:8120c4fad38f4caa8dd7bbb1c4d78d4f
+[I 05:14:45.931 NotebookApp] 302 GET / (127.0.0.1) 0.73ms
+[I 05:14:59.166 NotebookApp] Adapting to protocol v5.1 for kernel 795cfc6f-a250-4431-aaf6-a22b11474195
+[I 05:16:59.328 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 05:20:59.462 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 05:22:59.468 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 05:26:59.341 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 05:30:59.268 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 05:32:59.271 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 05:34:59.302 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 05:36:59.321 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 05:39:07.606 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 05:43:50.243 NotebookApp] Adapting to protocol v5.1 for kernel 795cfc6f-a250-4431-aaf6-a22b11474195
+[I 06:05:07.523 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 06:07:07.608 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 06:09:07.460 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 06:11:07.499 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 06:37:09.838 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 06:50:48.348 NotebookApp] Starting buffering for 795cfc6f-a250-4431-aaf6-a22b11474195:c4e794d322fc402a8e6260332283d819
+[I 22:46:38.905 NotebookApp] 302 GET / (127.0.0.1) 0.91ms
+[I 22:46:49.580 NotebookApp] Adapting to protocol v5.1 for kernel 795cfc6f-a250-4431-aaf6-a22b11474195
+[I 22:48:58.324 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 22:50:58.722 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 23:18:58.353 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 23:20:58.270 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 23:22:58.235 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 23:24:58.195 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 23:28:58.296 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 23:30:58.223 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 23:37:00.298 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 23:38:50.077 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 23:40:58.169 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[W 00:59:21.787 NotebookApp] Notebook pyspark_bkp.ipynb is not trusted
+[W 00:59:28.161 NotebookApp] Notebook pyspark_sql_for_ML.ipynb is not trusted
+[I 00:59:33.316 NotebookApp] Kernel started: 96315c40-5ed5-434a-a82b-7f8295a9648e
+[I 00:59:34.739 NotebookApp] Adapting to protocol v5.1 for kernel 96315c40-5ed5-434a-a82b-7f8295a9648e
+[W 01:45:49.585 NotebookApp] WebSocket ping timeout after 119794 ms.
+[I 01:45:54.587 NotebookApp] Starting buffering for 795cfc6f-a250-4431-aaf6-a22b11474195:c55c8db4b97e46338a4eecb29fa7ced5
+[W 01:46:04.742 NotebookApp] WebSocket ping timeout after 119914 ms.
+[I 01:46:09.746 NotebookApp] Starting buffering for 96315c40-5ed5-434a-a82b-7f8295a9648e:462a7f67732740e98741fc0fe5dfb3cf
+[I 03:59:24.084 NotebookApp] 302 GET / (196.52.43.62) 0.85ms
+[I 19:33:16.994 NotebookApp] 302 GET /tree? (35.234.91.31) 0.96ms
+[I 08:22:02.920 NotebookApp] 302 GET / (54.191.103.78) 0.72ms
+[I 03:20:42.540 NotebookApp] 302 GET / (196.52.43.101) 0.71ms
+[I 18:34:12.557 NotebookApp] 302 GET / (127.0.0.1) 2.60ms
+[I 18:34:43.831 NotebookApp] Adapting to protocol v5.1 for kernel 795cfc6f-a250-4431-aaf6-a22b11474195
+[I 18:38:52.570 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 19:08:52.685 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 19:10:52.417 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 19:12:52.483 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 19:14:53.839 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 19:30:53.754 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 19:36:53.663 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 19:44:53.683 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 19:48:52.354 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 20:56:52.799 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 20:58:53.485 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 21:14:54.345 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 21:17:18.328 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 21:31:29.967 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 21:33:51.125 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 21:38:29.891 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 21:40:49.892 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 21:45:32.484 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 21:48:13.963 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 21:50:43.686 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 21:53:13.669 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 21:55:45.212 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 21:58:14.050 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 22:00:45.110 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 22:03:14.943 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 22:05:45.205 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 22:08:15.780 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 22:10:44.924 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 22:20:44.775 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 22:25:45.439 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 22:55:45.012 NotebookApp] Starting buffering for 795cfc6f-a250-4431-aaf6-a22b11474195:118e5efd8abc47e481def1db6d3c7fbb
+[I 01:58:14.176 NotebookApp] 302 GET / (164.52.24.175) 0.58ms
+[I 06:42:23.111 NotebookApp] Adapting to protocol v5.1 for kernel 795cfc6f-a250-4431-aaf6-a22b11474195
+[I 06:44:36.287 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 06:47:31.311 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 06:50:09.516 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 06:52:49.392 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 06:55:30.842 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 06:58:09.512 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[W 08:15:53.118 NotebookApp] WebSocket ping timeout after 119904 ms.
+[I 08:15:58.121 NotebookApp] Starting buffering for 795cfc6f-a250-4431-aaf6-a22b11474195:a18e0b92ab464b0a94485832f88b08e7
+[I 05:42:41.922 NotebookApp] Adapting to protocol v5.1 for kernel 795cfc6f-a250-4431-aaf6-a22b11474195
