@@ -417,3 +417,14 @@ To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLeve
 [W 08:15:53.118 NotebookApp] WebSocket ping timeout after 119904 ms.
 [I 08:15:58.121 NotebookApp] Starting buffering for 795cfc6f-a250-4431-aaf6-a22b11474195:a18e0b92ab464b0a94485832f88b08e7
 [I 05:42:41.922 NotebookApp] Adapting to protocol v5.1 for kernel 795cfc6f-a250-4431-aaf6-a22b11474195
+[I 06:25:15.003 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 06:31:27.738 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 06:37:09.791 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 06:42:59.375 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 06:48:49.034 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 06:54:38.624 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[I 07:00:28.374 NotebookApp] Saving file at /dask_agriculture_census_analysis.ipynb
+[W 07:07:41.929 NotebookApp] WebSocket ping timeout after 119804 ms.
+[I 07:07:46.933 NotebookApp] Starting buffering for 795cfc6f-a250-4431-aaf6-a22b11474195:ea255c42f3de41baa7ba9180bd46baa4
+[I 12:13:56.712 NotebookApp] 302 GET / (178.156.7.247) 0.54ms
+[I 02:38:17.527 NotebookApp] 302 GET / (125.64.94.197) 0.59ms
