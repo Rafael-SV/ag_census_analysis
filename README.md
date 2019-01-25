@@ -1,6 +1,7 @@
 # ag_census_analysis
 
-This is a 2 month long project started at the end of october. 
+This is a 2 month long project started at the end of october of 2018, but is currently stalled, as I am working as a consultant for a bit. Hopefully I'll get the time to push this over the finish line soon, but right now I'm too busy.
+_______
 
 In order to predict the best ways a new Ag tech startup can market to earlyvangelist farmers, the growers most likely to adopt new technology need to be identified.
 
